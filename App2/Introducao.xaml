@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CarouselPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+              xmlns:tipopagina="clr-namespace:App2.Carrossel"
+             mc:Ignorable="d"
+             x:Class="App2.Introducao"
+             BackgroundColor="Default"
+             BackgroundImageSource="background.png">
+
+    <tipopagina:ContentPage1 />
+    <tipopagina:ContentPage2 />
+    <tipopagina:ContentPage3 />
+    <tipopagina:ContentPage4 />
+
+</CarouselPage>
